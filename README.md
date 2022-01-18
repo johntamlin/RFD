@@ -1,2 +1,2 @@
-# RFD
- SFIA2 Proj
+# SFIA-2
+ DfE Cloud Specialism - Final Project. QA Academy
